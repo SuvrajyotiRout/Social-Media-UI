@@ -1,0 +1,28 @@
+.main-div {
+    display: flex;
+}
+
+.secondary-div {
+    width: 100%;
+}
+
+.sidebar {
+    min-height: 900px;
+}
+
+.likearea {
+    margin-top: 8px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.posts {
+    margin: 50px;
+    min-width: 500px;
+}
+
+/* 
+.uploads {
+    width: 70%;
+    align-items: center;
+} */
